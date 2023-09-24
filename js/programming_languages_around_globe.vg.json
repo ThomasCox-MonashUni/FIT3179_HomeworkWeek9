@@ -95,6 +95,7 @@
       "encoding": {
         "color": {
           "field": "percent",
+          "title": "% of Users",
           "type": "quantitative",
           "scale": {
             "domain": [0, 100],
